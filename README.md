@@ -1,11 +1,17 @@
 # Series
+This app enables adding series & see series's details. 
 
 ## Prerequisites
 The following technologies should be installed globally
 * Node 
 * React
 
-This app enables add series & see series's creators. Developed using Express, dotenv, mongoose, GraphQL & React.
+
+## Technologies
+* Server: Express, dotenv, mongoose, GraphQL
+* Client: React
+
+
 
 Some examples of GraphQL API:
 
