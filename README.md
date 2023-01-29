@@ -19,10 +19,6 @@ Some examples of GraphQL API:
 
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1675018495/neg2pryzghhwyl8n3eii.png)
 
-In order to add a series, there are required fields, otherwise you'll get error
-
-![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1675018674/toibmtd23mcvcq0lnrq1.png)
-
 
 By clicking on each series, you will be able to see serie's details
 
